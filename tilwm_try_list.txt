@@ -1,0 +1,233 @@
+#######################
+#### Base Packages ####
+#######################
+
+base
+bind-tools
+#btrfs-progs
+#cryptsetup # brauch ich das?
+#darkhttpd # web server 
+ddrescue # data recovery tool
+#dhclient
+dhcpcd
+#dnsmasq
+#dnsutils
+#dosfstools
+e2fsprogs
+#edk2-shell # brauch ich das?
+#efibootmgr
+#ethtool
+exfatprogs
+#f2fs-tools # brauch ich das?
+#fatresize # brauch ich das?
+fish
+#fsarchiver
+#gnu-netcat
+gptfdisk
+#hdparm
+#intel-ucode
+iw
+iwd
+less
+#lftp # brauch ich das? FTP Client
+#linux
+#linux-firmware
+#lvm2 # brauch ich das?
+tldr
+man-pages
+#mtools
+#nbd # brauch ich das?
+#ndisc6
+#nfs-utils
+nilfs-utils
+#nmap
+#ntfs-3g
+nvme-cli
+#openssh
+#pv
+reflector
+#screen # brauch ich das?
+#smartmontools
+#sof-firmware
+#systemd-resolvconf # brauch ich das?
+tcpdump
+tmux
+usbmuxd
+usbutils
+#wireless-regdb
+#wireless_tools
+#wpa_supplicant
+
+
+#######################################################
+###                    EXTRAS                       ###
+#######################################################
+
+#################
+#### Theming ####
+#################
+kvantum-qt5
+qt5ct
+adapta-gtk-theme
+qogir-gtk-theme
+kvantum-theme-qogir-git
+#papirus-icon-theme
+
+###############
+#### Fonts ####
+###############
+#ttf-dejavu
+ttf-liberation
+nerd-fonts-jetbrains-mono
+
+###################
+#### Utilities ####
+###################
+#acpi
+conky
+dunst
+#exa
+gpick
+#lxappearance-gtk3
+scrot
+#picom
+sxhkd
+udisks2
+#unzip
+#xclip # brauch ich das?
+#xfce4-power-manager # brauch ich das?
+#xfce4-settings # brauch ich das?
+
+########################
+#### Nvidia Drivers ####
+########################
+#nvidia
+#nvidia-utils
+#nvidia-settings
+
+###############
+#### Other ####
+###############
+#alacritty
+archlinux-keyring
+#base-devel
+bat
+fzf
+#linux-headers
+lxdm-gtk3
+make
+polybar
+#xdg-utils
+xdotool
+
+##############
+#### Grub ####
+##############
+#grub
+lsb-release
+#os-prober
+
+########################
+##### Xorg Packages ####
+########################
+xorg-fonts-misc
+#xorg-server
+#xorg-xbacklight
+xorg-xev
+xorg-xfd
+#xorg-xkill
+xorg-xmodmap
+#xorg-xrandr
+xorg-xrdb
+xorg-xset
+xorg-xsetroot
+xorg-xwininfo
+
+##########################
+#### Touchpad & Mouse ####
+##########################
+#xf86-input-libinput
+#xorg-xinput
+
+#########################################
+#### Networking Tools & Applications ####
+#########################################
+bmon
+inetutils
+firefox
+#networkmanager
+nethogs
+nm-connection-editor
+#wget
+curl
+
+###################
+#### Bluetooth ####
+###################
+#bluez
+#bluez-utils
+blueberry
+
+###############
+#### Sound ####
+###############
+#alsa-plugins
+alsa-tools
+#alsa-utils
+pamixer
+#pavucontrol
+portaudio
+pipewire
+wireplumber
+#pipewire-alsa
+#pipewire-jack
+pipewire-zeroconf
+#pipewire-pulse
+
+###############
+#### Files ####
+###############
+ncdu
+ranger
+#thunar
+ueberzug
+#xdg-user-dirs
+
+################
+#### Images ####
+################
+#feh
+imagemagick
+viewnior
+
+####################
+#### Multimedia ####
+####################
+ffmpeg
+#ffmpegthumbnailer
+#mpv
+youtube-dl
+yt-dlp
+
+######################
+#### Text Editors ####
+######################
+xed
+#neovim
+
+######################
+#### AUR Packages ####
+######################
+ani-cli-git
+cava
+devour
+i3lock-color
+ksuperkey
+networkmanager-dmenu-git
+paru-bin
+phinger-cursors
+shell-color-scripts
+unimatrix-git
+xfce-polkit
+ytfzf-git
+ckbcomp
