@@ -12,8 +12,9 @@ bluez
 bluez-utils
 bmon
 curl
-duf || fd
+duf 
 exa
+fd
 ffmpeg
 ffmpegthumbnailer
 firefox
