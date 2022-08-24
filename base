@@ -34,7 +34,7 @@ imagemagick
 less
 libopenraw
 lightdm
-lightdm-webkit2-theme-material2
+lightdm-webkit-theme-litarvan
 lsb-release
 man-db
 man-pages
@@ -82,6 +82,7 @@ ueberzug
 ufw
 unzip
 usbutils
+vivid
 wget
 whois
 wireplumber
