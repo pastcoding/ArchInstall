@@ -7,8 +7,6 @@ alsa-utils
 arandr
 awesome-git
 bat
-bind
-bind-tools
 blueberry
 bluez
 bluez-utils
