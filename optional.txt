@@ -1,5 +1,7 @@
 acpi (gibts da was besseres?)
 betterlockscreen
+bind
+bind-tools
 ckbcomp
 dconf-editor
 ddrescue
