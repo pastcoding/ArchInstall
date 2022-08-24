@@ -8,14 +8,10 @@ alsa-utils
 arandr
 arc-gtk-theme
 archlinux-xdg-menu
-autoconf
-automake
 awesome-git
-base
 bat
 betterlockscreen
 bind
-bison
 blueberry
 bluez
 bluez-utils
@@ -43,7 +39,6 @@ emacs
 ethtool
 exa
 exfatprogs
-fakeroot
 fd
 feh
 ffmpeg
@@ -51,18 +46,15 @@ ffmpegthumbnailer
 firefox
 fish
 fisher
-flex
 font-manager
 fsarchiver
 fzf
-gcc
 git
 glances
 gnu-netcat
 gpick
 gptfdisk
 graphviz
-groff
 grub
 grub-btrfs
 gvfs
@@ -82,7 +74,6 @@ iwd
 kvantum
 kvantum-theme-qogir-git
 libopenraw
-libtool
 lightdm
 lightdm-webkit-theme-litarvan
 linux
@@ -90,8 +81,6 @@ linux-firmware
 linux-headers
 lsb-release
 lxappearance-gtk3
-m4
-make
 man-db
 man-pages
 meld
@@ -105,8 +94,8 @@ nethogs
 networkmanager
 nfs-utils
 nitch
-nm-connection-editor
 nmap
+nm-connection-editor
 npm
 nss-mdns
 ntfs-3g
@@ -119,7 +108,6 @@ openssh
 os-prober
 pacman-contrib
 pamixer
-patch
 pavucontrol
 peazip-gtk2-bin
 picom-jonaburg-git
@@ -128,7 +116,6 @@ pipewire-alsa
 pipewire-jack
 pipewire-pulse
 pipewire-zeroconf
-pkgconf
 pkgfile
 polybar
 portaudio
@@ -154,11 +141,9 @@ spotify
 sshfs
 starship
 stylelint
-sudo
 surfn-icons-git
 sxhkd
 tcpdump
-texinfo
 thunar
 thunar-archive-plugin
 thunar-media-tags-plugin
@@ -185,7 +170,6 @@ vscodium-bin
 vscodium-bin-features
 vscodium-bin-marketplace
 wget
-which
 whois
 wireless-regdb
 wireless_tools
